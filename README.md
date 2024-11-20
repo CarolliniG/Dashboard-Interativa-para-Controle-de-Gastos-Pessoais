@@ -73,6 +73,9 @@ dashboard-gastos-pessoais/
 │   └── gastos.csv         # Arquivo CSV com os dados de exemplo
 ├── requirements.txt       # Arquivo com as dependências do projeto
 └── README.md              # Documentação do projeto
+
+'''bash
+
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar um pull request.
 
