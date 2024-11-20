@@ -9,3 +9,9 @@ Este projeto é uma aplicação web para controle de gastos pessoais. Ela permit
 Streamlit: Biblioteca de Python que permite criar aplicativos web.
 Pandas: Para manipulação e análise de dados.
 Plotly: Para criar gráficos interativos e visualizações de dados.
+
+**Objetivo**
+Este projeto foi desenvolvido com o objetivo de estudar e praticar a utilização de Python no desenvolvimento de aplicações interativas e para aprender a utilizar bibliotécas Python para desenvolvimento web.
+
+**Autor:**
+Carollini Gimenes
