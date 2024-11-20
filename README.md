@@ -66,7 +66,7 @@ Acesse o dashboard no seu navegador em http://localhost:8501.
 ```
 
 ***Estrutura do Projeto***
-
+```bash
 dashboard-gastos-pessoais/
 │
 ├── app.py                 # Arquivo principal da aplicação
@@ -74,6 +74,7 @@ dashboard-gastos-pessoais/
 │   └── gastos.csv         # Arquivo CSV com os dados de exemplo
 ├── requirements.txt       # Arquivo com as dependências do projeto
 └── README.md              # Documentação do projeto
+```
 
 ***Contribuição***
 
