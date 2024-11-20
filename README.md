@@ -67,8 +67,6 @@ Acesse o dashboard no seu navegador em http://localhost:8501.
 
 ***Estrutura do Projeto***
 
-plaintext
-Copiar código
 dashboard-gastos-pessoais/
 │
 ├── app.py                 # Arquivo principal da aplicação
