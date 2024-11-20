@@ -62,9 +62,10 @@ bash
 Copiar código
 streamlit run app.py
 Acesse o dashboard no seu navegador em http://localhost:8501.
+
 ```
 
-###Estrutura do Projeto
+***Estrutura do Projeto***
 
 plaintext
 Copiar código
@@ -76,7 +77,7 @@ dashboard-gastos-pessoais/
 ├── requirements.txt       # Arquivo com as dependências do projeto
 └── README.md              # Documentação do projeto
 
-###Contribuição
+***Contribuição***
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar um pull request.
 
