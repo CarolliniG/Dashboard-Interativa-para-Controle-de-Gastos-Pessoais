@@ -1,0 +1,11 @@
+data,descrição,categoria,valor,Forma de Pagamento,Conta
+2023-11-20,Almoço no restaurante X,Alimentação,35.00,Cartão de Crédito,Visa
+2023-11-25,Aluguel,Moradia,800.00,Boleto,Banco do Brasil
+2023-11-22,Supermercado Y,Alimentação,250.00,Débito,Itaú
+2023-11-23,Gasolina Posto Z,Transporte,150.00,Cartão de Crédito,Mastercard
+2023-11-24,Academia Fitness,Saúde,120.00,Pix,Nubank
+2023-11-26,Consulta médica,Saúde,200.00,Dinheiro,-
+2023-11-27,Cinema com amigos,Lazer,45.00,Cartão de Crédito,Visa
+2023-11-28,Internet Provedor Q,Moradia,100.00,Débito Automático,Caixa
+2023-11-29,Compra de livro A,Educação,70.00,Pix,Inter
+2023-11-30,Café na padaria B,Alimentação,15.00,Dinheiro,-
