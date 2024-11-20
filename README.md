@@ -37,8 +37,8 @@ Instale as bibliotecas utilizando o comando abaixo:
 
 pip install streamlit pandas plotly
 
-###Como usar
-* ***Clone este repositório:***
+Como usar
+Clone este repositório:
 
 bash
 Copiar código
