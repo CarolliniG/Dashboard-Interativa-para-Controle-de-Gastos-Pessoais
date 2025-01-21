@@ -24,8 +24,6 @@ Este projeto foi desenvolvido com o objetivo de estudar e praticar a utilizaçã
 
 Certifique-se de que você tem os seguintes itens configurados antes de começar:
 
-### Python
-Instale a versão mais recente do Python. Você pode baixá-lo [aqui](https://www.python.org/).
 
 ### Ambiente virtual
 Recomenda-se criar um ambiente virtual para isolar as dependências do projeto. 
